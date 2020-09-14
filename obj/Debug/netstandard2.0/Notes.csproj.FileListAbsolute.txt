@@ -1,0 +1,24 @@
+H:\Desktop\Notes\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+H:\Desktop\Notes\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+H:\Desktop\Notes\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+H:\Desktop\Notes\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+H:\Documents\Purdue Global School Files\PGIP-Tech Internship\Experiential\Notes Mobile App\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
